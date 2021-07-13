@@ -7,5 +7,6 @@ public class VersionTest {
         System.out.println("qqqq6");
         System.out.println("qqq0q-5");
         System.out.println("qqqq5");
+         System.out.println("pull-1");
     }
 }
