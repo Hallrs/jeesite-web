@@ -6,5 +6,6 @@ public class VersionTest {
 
         System.out.println("qqqq6");
         System.out.println("qqqq5");
+        System.out.println("qqqq5");
     }
 }
